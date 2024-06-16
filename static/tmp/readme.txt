@@ -1,0 +1,1 @@
+This folder /static/tmp is where the upload image will be saved
